@@ -1,4 +1,4 @@
-# PhotoPage
+# QRCode Component
 PhotoPage Project
 
-Eine fiktive Photo-Website. Die Seite ist Responsive und kommt mit vielen CSS-Tricks daher.
+Einer kleiner respoonsiver QR-Code.
